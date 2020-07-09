@@ -1,5 +1,10 @@
-#remover tudo que tem na pasta html
+  
+#!/bin/bash
+
+
+
+# delete all content of folder html
 rm -rf /var/www/html
 
-#atualiza os pacotes
+#update the system
 sudo yum -y update
