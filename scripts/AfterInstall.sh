@@ -1,1 +1,1 @@
-# nao faz nada
+#!/bin/bash
